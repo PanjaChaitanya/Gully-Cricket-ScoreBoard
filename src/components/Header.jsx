@@ -5,7 +5,7 @@ const Header = () => {
     <>
         <div>
             <nav className="navbar bg-body-tertiary">
-                <div className="container-fluid">
+                <div className="">
                     <a className="navbar-brand" href="#">
                         <img src="/icons/bootstrap.svg" alt="Logo" width="30" height="24" class="d-inline-block align-text-top"/>
                     </a>
